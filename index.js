@@ -1,4 +1,4 @@
-const API_KEY = "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"
+const API_KEY = ""
 const { Configuration, OpenAIApi } = require("openai");
 const fs = require('fs');
 const path = require('path');
